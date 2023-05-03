@@ -41,7 +41,7 @@ function CourseForm() {
           setCourseTitle("");
         }}
       >
-        Cancel
+        Reset
       </button>
     </div>
   );
